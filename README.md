@@ -1,1 +1,1 @@
-# This python script will analyze the message and conveys whether the given message is needed to be reminded or not
+A basic level NLP model was implemented using python to analyze a text message and classify whether the message has to be reminded to the user or not. This is not a complete model. This is just backend coding. A server side and client side modules are needed to show this as a product.
